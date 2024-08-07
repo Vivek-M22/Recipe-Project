@@ -17,8 +17,7 @@
 .navbar {
     width: 100vw;
     height: 45px;
-    background-color: #89c2d9;
-    /* background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%); */
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
     /* webgradient.com */
     display: flex;
     justify-content: space-around;
